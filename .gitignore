@@ -1,0 +1,12 @@
+.idea/
+*.swp
+# OS
+.DS_Store
+Thumbs.db
+
+# Heavy Data & Virtual Environments
+data/
+.venv/
+results/
+*.zip
+*.pth
